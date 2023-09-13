@@ -17,7 +17,7 @@
 각 다음 레벨은 이전 레벨의 세 번째 행 위에서 시작하고 모든 고정된 레벨의 다른 측면은 평행합니다.    
 이동식 레벨은 처음에는 상부 및 하부 레벨의 가장 바깥쪽 모서리 위에 위치합니다. 즉, 모서리 중 하나 아래에 보드 모서리가 있고 다른 세 모서리 아래에는 고정 레벨 보드가 없습니다.**   
 
-![image](https://github.com/3DimensionSpaceTime/WikiRepository/assets/56966606/8260bc73-4feb-41b9-91cc-949f06d9a315)
+![image](https://github.com/3DimensionSpaceTime/WikiRepository/assets/56966606/ace794c7-5c89-492e-8c43-171b6119fecd)
 
 **피스의 이동은 정통 체스의 이동과 유사하지만 두 가지 추가 규칙이 있습니다.       
 첫째, 위에서 보드를 바라볼 때, 그 말은 가고 싶은 칸으로 정상적인 체스 이동을 할 수 있어야 합니다.   
