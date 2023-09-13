@@ -26,6 +26,10 @@
 
 [출처 : chessvariants](https://www.chessvariants.com/3d.dir/startrek.html)
 
+**스타트랙 영화에서 나온 3D체스 장면**
+![image](https://github.com/3DimensionSpaceTime/WikiRepository/assets/56966606/8e64d775-3bd7-4414-b5a8-02cea7cd34a5)
+
+
 # Act1. 게임 개발 기획
 
 <br>
@@ -122,7 +126,7 @@
 |개발자|개발 방향|목적|
 |:------:|:---:|:---:|
 |최재욱|사용될 3D리소스 디자인 완성과 비동기 http 웹통신 성공|기존 체스 요소 숙지와 엔진 활용으로 http 통신 방식의 이해|
-|이명재|체스 로직 검수와 웹소켓 통신 숙달|웹소켓 통신 숙달을 통한 비동기 기술강화와 Docker를 통한 배포 방식 이해 & Jekins를 통한 CI/CD 기술 습득|
+|이명재|체스 로직 검수와 웹소켓 통신 숙달|웹소켓 통신 숙달을 통한 비동기 기술강화와 Docker를 통한 배포 방식 이해 & Jenkins를 통한 CI/CD 기술 습득|
 |강예성|머신러닝을 통한 AI 강화학습|체스로직에 활용될 기술 검토와 레이어 분배 강화학습의 완성도를 높임|
 
 ## 2차 개발 방향과 목적
