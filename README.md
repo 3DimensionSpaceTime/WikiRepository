@@ -10,7 +10,7 @@
 |강예성|AI인공지능|Colab(임시), Python|
 
 ## 간단한 게임 설명
-![image](https://github.com/3DimensionSpaceTime/WikiRepository/assets/56966606/f8b5c9ef-601d-4fec-b623-9b6adb06c48f)
+![image](https://github.com/SoexDobin/3DChess/assets/56966606/4a7565de-f8cd-4952-8d0b-11e8e5c5ba19)
 
 **3차원 보드는 7개의 서로 다른 레벨로 구성됩니다. 이들 중 3개는 크기가 4 x 4이고 위치가 고정되어 있습니다.      
 나머지 4개는 2x2크기이고 플레이어가 턴을 소모하여 특정 지정위치로 이동할 수 있습니다. 또한 같은 레벨에는 판이 존재 할수 없습니다.    
